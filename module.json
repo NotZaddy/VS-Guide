@@ -1,8 +1,0 @@
-{
-    "disableAutoUpdate": false,
-    "name": "vs-guide-master",
-    "description": "Description goes here.",
-    
-    "servers": ["https://raw.githubusercontent.com/NotZaddy/VS-Guide/master/"],
-    "supportUrl": "https://github.com/NotZaddy/VS-Guide/issues"
-}
